@@ -1,0 +1,11 @@
+import React, { Component } from 'react'
+
+class classComponent extends Component {
+    render() {
+        retur(
+            <h1>{this.props.value}</h1>  
+        )
+
+    }
+
+}
